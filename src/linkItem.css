@@ -1,0 +1,6 @@
+.linkItem:hover {
+ background-color: transparent !important;
+ border: 1px solid;
+ transition: .3s;
+ cursor: pointer;
+}
